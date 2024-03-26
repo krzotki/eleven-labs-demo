@@ -1,6 +1,6 @@
 # LeagueAbuser Discord Bot (demo code)
 
-https://discord.com/application-directory/1092501071030648942]
+[https://discord.com/application-directory/1092501071030648942](https://discord.com/application-directory/1092501071030648942)
 
 This bot uses OpenAI to generate texts and ElevenLabs to say them out loud:
 
